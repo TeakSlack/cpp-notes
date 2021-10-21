@@ -89,8 +89,8 @@ public:
 
     ~Example()
     {
-        delete a;
-        delete b;
+        a = 0;
+        b = 0;
     }
 };
 ```
@@ -99,4 +99,4 @@ public:
 
 Struct is short for structure. Functionally there is very little different between a struct and a class. All members in a struct are public by default. Structs remain in C++ for backwards compatability with C.
 
-How structs are used differs from classes however. Breaking form, the way I choose to use structs is to just group plain old data in a smaller form than full classes.
+How structs are used differs from coding style to coding style, there is no one right way. A common practice however seems to be to use them to lump together just plain old groups of data.
