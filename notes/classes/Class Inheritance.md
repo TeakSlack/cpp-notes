@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Inheritance is a way to avoid code duplication. It most typically follows the example of a base class in which other classes with similar functionalities brach off of.
+Inheritance is a way to avoid code duplication. It most typically follows the example of a base class in which other classes with similar functionalities brach off of called _derived classes_.
 
 ```cpp
 class Entity
