@@ -24,7 +24,7 @@ Note the use of the `public` keyword. This denotes the visibility of the members
 
 ## Constructors
 
-Constructors are a special method ran every time a class or class derivative is instantiated. They are typically used to clear the memory in a newly instatiated class.
+Constructors are a special method ran every time a class or class derivative is instantiated. They are typically used to clear the memory in a newly instantiated class.
 
 ```cpp
 class Example
@@ -97,6 +97,6 @@ public:
 
 ## Structs
 
-Struct is short for structure. Functionally there is very little different between a struct and a class. All members in a struct are public by default. Structs remain in C++ for backwards compatability with C.
+Struct is short for structure. Functionally there is very little different between a struct and a class. All members in a struct are public by default. Structs remain in C++ for backwards compatibility with C.
 
 How structs are used differs from coding style to coding style, there is no one right way. A common practice however seems to be to use them to lump together just plain old groups of data.

@@ -2,11 +2,11 @@
 
 ## What are they?
 
-Pointers are very useful for managing and manipulating memory. A pointer is an integer that stores a memory address. Referring to locations by address is much more efficent than referring to locations by themselves, much like the real world (think of the analogy of a neighborhood). 
+Pointers are very useful for managing and manipulating memory. A pointer is an integer that stores a memory address. Referring to locations by address is much more efficient than referring to locations by themselves, much like the real world (think of the analogy of a neighborhood).
 
 ## Raw Pointers
 
-A void pointer is a type-less pointer. It really is just used to hold an address where the type is not importaint.
+A void pointer is a type-less pointer. It really is just used to hold an address where the type is not important.
 
 ```cpp
 // To define a pointer and assign a value
@@ -14,6 +14,7 @@ A void pointer is a type-less pointer. It really is just used to hold an address
 int a = 42;
 int* ptr = &a; // The & character tells the compiler we want the address of variable a, not the variable itself.
 ```
+
 Dereferencing a pointer lets one access the data at the address of the pointer. It can be used to either read or write to that data.
 
 ```cpp
@@ -29,7 +30,7 @@ std::cout << *ptr << std::endl;
 
 In terms of purpose, pointers and references are very similar. It is how one writes and uses them that varies. It's syntactic sugar pretty much.
 
-References must reference already existing variables. 
+References must reference already existing variables.
 
 ```cpp
 // To define a reference
@@ -55,7 +56,7 @@ void increment2(int& val)
     val++;
 }
 
-// Keep in mind this code is functionaly the same as
+// Keep in mind this code is functionality the same as
 
 void increment3(int* val)
 {
