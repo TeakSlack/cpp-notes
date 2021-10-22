@@ -54,7 +54,7 @@ Copy constructors initialize a class using another instance of that class by ess
 
 ## Destructors
 
-Destructors are called every time an object is destroyed. They are typically used to clean (or deallocate) any memory that class has used.
+Destructors are called every time an object is destroyed. They are typically used to clean (or deallocate) any memory that class has used. Per class, there can only be one destructor.
 
 ```cpp
 class Example
@@ -76,3 +76,7 @@ public:
     }
 };
 ```
+
+### Virtual Destructors
+
+Using a non-virtual destructor in a derived class results in undefined behavior (it differs from compiler to compiler to compiler). Because of this, it is best practice to use a virtual destructor in a base class whenever virtual functions are used, even if the destructor does nothing. This is for the exact same reason that virtual functions are used in the first place.
