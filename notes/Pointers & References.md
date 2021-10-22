@@ -64,4 +64,8 @@ void increment3(int* val)
 }
 ```
 
-Once a reference is defined, the memory address it is referencing cannot be changed.
+Once a reference is defined, the memory address it is referencing cannot be changed. References cannot have a null value either. For this reason, they are safer than pointers as a wild reference is unlikely to exist.
+
+### When should references be used?
+
+References are a very powerful concept to learn and master. They should be used when passing in an argument to a function that is going to be modified, or passing a value in to a `for` loop that will be modified. References avoid copying large data structures which makes your program more memory efficient for only a few more clock cycles (almost no overhead in a modern machine). References could be passed in to `for` loops for this very reason.
