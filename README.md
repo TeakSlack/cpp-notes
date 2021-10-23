@@ -6,6 +6,7 @@
   - [Constructors & Destructors](https://github.com/TeakSlack/cpp-notes/blob/main/notes/classes/Construtors%20%26%20Destructors.md)
   - [Class Inheritance](https://github.com/TeakSlack/cpp-notes/blob/main/notes/classes/Class%20Inheritance.md)
   - [Virtual Functions](https://github.com/TeakSlack/cpp-notes/blob/main/notes/classes/Virtual%20Functions.md)
+  - [Visibility](https://github.com/TeakSlack/cpp-notes/blob/main/notes/classes/Visibility.md)
 - [Pointers & References](https://github.com/TeakSlack/cpp-notes/blob/main/notes/Pointers%20%26%20References.md)
 - [Static Keyword](https://github.com/TeakSlack/cpp-notes/blob/main/notes/Static.md)
 - [Enums](https://github.com/TeakSlack/cpp-notes/blob/main/notes/Enums.md)
