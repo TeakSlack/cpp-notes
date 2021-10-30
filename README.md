@@ -7,9 +7,11 @@
   - [Class Inheritance](https://github.com/TeakSlack/cpp-notes/blob/main/notes/classes/Class%20Inheritance.md)
   - [Virtual Functions](https://github.com/TeakSlack/cpp-notes/blob/main/notes/classes/Virtual%20Functions.md)
   - [Visibility](https://github.com/TeakSlack/cpp-notes/blob/main/notes/classes/Visibility.md)
+- [Keywords](https://github.com/TeakSlack/cpp-notes/tree/main/notes/keywords)
+  - [Static](https://github.com/TeakSlack/cpp-notes/blob/main/notes/keywords/Static.md)
+  - [Enums](https://github.com/TeakSlack/cpp-notes/blob/main/notes/keywords/Enums.md)
 - [Pointers & References](https://github.com/TeakSlack/cpp-notes/blob/main/notes/Pointers%20%26%20References.md)
-- [Static Keyword](https://github.com/TeakSlack/cpp-notes/blob/main/notes/Static.md)
-- [Enums](https://github.com/TeakSlack/cpp-notes/blob/main/notes/Enums.md)
+- [Strings](https://github.com/TeakSlack/cpp-notes/blob/main/notes/Strings.md)
 
 ## Who is this for?
 
