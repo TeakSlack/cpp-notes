@@ -10,6 +10,7 @@
 - [Keywords](https://github.com/TeakSlack/cpp-notes/tree/main/notes/keywords)
   - [Static](https://github.com/TeakSlack/cpp-notes/blob/main/notes/keywords/Static.md)
   - [Enums](https://github.com/TeakSlack/cpp-notes/blob/main/notes/keywords/Enums.md)
+  - [Const](notes/keywords/Static.md)
 - [Pointers & References](https://github.com/TeakSlack/cpp-notes/blob/main/notes/Pointers%20%26%20References.md)
 - [Strings](https://github.com/TeakSlack/cpp-notes/blob/main/notes/Strings.md)
 
