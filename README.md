@@ -2,17 +2,17 @@
 
 ## Table Of Contents
 
-- [Classes](https://github.com/TeakSlack/cpp-notes/blob/main/notes/classes/Classes.md)
-  - [Constructors & Destructors](https://github.com/TeakSlack/cpp-notes/blob/main/notes/classes/Construtors%20%26%20Destructors.md)
-  - [Class Inheritance](https://github.com/TeakSlack/cpp-notes/blob/main/notes/classes/Class%20Inheritance.md)
-  - [Virtual Functions](https://github.com/TeakSlack/cpp-notes/blob/main/notes/classes/Virtual%20Functions.md)
-  - [Visibility](https://github.com/TeakSlack/cpp-notes/blob/main/notes/classes/Visibility.md)
-- [Keywords](https://github.com/TeakSlack/cpp-notes/tree/main/notes/keywords)
-  - [Static](https://github.com/TeakSlack/cpp-notes/blob/main/notes/keywords/Static.md)
-  - [Enums](https://github.com/TeakSlack/cpp-notes/blob/main/notes/keywords/Enums.md)
+- [Classes](notes/classes/Classes.md)
+  - [Constructors & Destructors](notes/classes/Construtors%20%26%20Destructors.md)
+  - [Class Inheritance](notes/classes/Class%20Inheritance.md)
+  - [Virtual Functions](notes/classes/Virtual%20Functions.md)
+  - [Visibility](notes/classes/Visibility.md)
+- Keywords
+  - [Static](notes/keywords/Static.md)
+  - [Enums](notes/keywords/Enums.md)
   - [Const](notes/keywords/Static.md)
-- [Pointers & References](https://github.com/TeakSlack/cpp-notes/blob/main/notes/Pointers%20%26%20References.md)
-- [Strings](https://github.com/TeakSlack/cpp-notes/blob/main/notes/Strings.md)
+- [Pointers & References](notes/Pointers%20%26%20References.md)
+- [Strings](notes/Strings.md)
 
 ## Who is this for?
 
