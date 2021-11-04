@@ -10,7 +10,7 @@
 - Keywords
   - [Static](notes/keywords/Static.md)
   - [Enums](notes/keywords/Enums.md)
-  - [Const](notes/keywords/Static.md)
+  - [Const](notes/keywords/Const.md)
 - [Pointers & References](notes/Pointers%20%26%20References.md)
 - [Strings](notes/Strings.md)
 
