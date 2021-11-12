@@ -13,6 +13,7 @@
   - [Const](notes/keywords/Const.md)
 - [Pointers & References](notes/Pointers%20%26%20References.md)
 - [Strings](notes/Strings.md)
+- [Member Initializer Lists](notes/Initializer%20Lists.md)
 
 ## Who is this for?
 
