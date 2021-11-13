@@ -2,18 +2,19 @@
 
 ## Table Of Contents
 
-- [Classes](notes/classes/Classes.md)
+- Classes
+  - [Overview](notes/classes/Classes.md)
   - [Constructors & Destructors](notes/classes/Construtors%20%26%20Destructors.md)
   - [Class Inheritance](notes/classes/Class%20Inheritance.md)
   - [Virtual Functions](notes/classes/Virtual%20Functions.md)
   - [Visibility](notes/classes/Visibility.md)
+  - [Member Initializer Lists](notes/classes/Initializer%20Lists.md)
 - Keywords
   - [Static](notes/keywords/Static.md)
   - [Enums](notes/keywords/Enums.md)
   - [Const](notes/keywords/Const.md)
 - [Pointers & References](notes/Pointers%20%26%20References.md)
 - [Strings](notes/Strings.md)
-- [Member Initializer Lists](notes/classes/Initializer%20Lists.md)
 
 ## Who is this for?
 
